@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "438196427100",
+    "project_id": "ehjezly-fd858",
+    "storage_bucket": "ehjezly-fd858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438196427100:android:47241b5e467943dfa34999",
+        "android_client_info": {
+          "package_name": "com.ehjezly.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438196427100-20v6hr6kbak3hjcne62feim0o8a577lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSGRmMBg4CZtQbRXttmyp6gH7P5gZGoBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438196427100-20v6hr6kbak3hjcne62feim0o8a577lh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438196427100-6g134f90n83bfr0900pe4356ch64u2ur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
